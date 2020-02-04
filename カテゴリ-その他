@@ -84,6 +84,11 @@ DDIJJ.com
    <span itemprop="title">ホーム</span>
   </a>
   </li>
+  <li itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+  <a href="https://ddijj.github.io/ddijj.coom" itemprop="url">
+   <span itemprop="title">その他</span>
+   </a>
+   </li>
    </ul>
 <h4>
   <div class="box10">
