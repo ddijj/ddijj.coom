@@ -1,49 +1,9 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>ddijj.com</title>
 </head>
 <body style="background-color:deepskyblue">
-  <style>
-  .box10 p {
-      margin: 0;
-      padding: 0;
-  }
-  .breadcrumb {
-    padding-left:0;
-    margin-left:0;
-  }
 
-  .breadcrumb li{
-    display:inline;
-    list-style: none;
-    font-weight: bold;
-  }
-
-  .breadcrumb li:after {/* >を表示*/
-    content: '>';
-    padding: 0 3px;
-    color: #555;
-  }
-
-  .breadcrumb li:last-child:after {
-    content: '';
-  }
-
-  .breadcrumb li a {
-    text-decoration: none;
-    color: #ffff;/*色*/
-  }
-
-  .breadcrumb li a:hover {
-    text-decoration: underline;
-  }
-  a {
-text-decoration: none;
-}
-a:hover {
-text-decoration: underline;
-}
   </style>
 <h1>DDIJJ.com</h1>
   <p></p>
