@@ -67,12 +67,11 @@ div {
   text-decoration: none;
   color: #ffff;/*色*/
 }
-
-.breadcrumb li a:hover {
-  text-decoration: underline;
-}
 a {
-  text-decoration: none;
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
 }
 </style>
 <h1>
