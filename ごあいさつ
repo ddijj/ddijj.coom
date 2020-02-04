@@ -66,17 +66,17 @@ DDIJJ.com
 </h1>
 <ul class="breadcrumb">
   <li itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
-  <a href="ddijj.html" itemprop="url">
+  <a href="https://ddijj.github.io/ddijj.coom/" itemprop="url">
    <span itemprop="title">ホーム</span>
   </a>
   </li>
   <li itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
-  <a href="ddijj.com.kategori-sonota.html" itemprop="url">
+  <a href="https://ddijj.github.io/ddijj.coom/カテゴリ-その他" itemprop="url">
    <span itemprop="title">その他</span>
    </a>
    </li>
    <li itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
-   <a href="ddijj-0201.html" itemprop="url">
+   <a href="https://ddijj.github.io/ddijj.coom/ごあいさつ" itemprop="url">
     <span itemprop="title">ごあいさつ</span>
   </a>
   </li>
