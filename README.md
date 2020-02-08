@@ -93,5 +93,6 @@ DDIJJ.com
       <p><a href="ddijj-0201.html" style="color:#000000">2/1　ごあいさつ</a></P>
   </div>
 </h4>
+    <ing src="![git1](https://user-images.githubusercontent.com/60650788/74083904-6a82aa80-4aac-11ea-8278-c1daae69aa5a.PNG)" alt="表示できません">
 </body>
 </html>
