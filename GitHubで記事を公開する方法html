@@ -20,8 +20,8 @@ DDIJJ.com
    </a>
    </li>
    <li itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
-   <a href="https://ddijj.github.io/ddijj.coom/GitHubで記事を公開する方法.html!" itemprop="url">
-    <span itemprop="title">2/10　GitHubで記事を公開する方法　パート1</span>
+   <a href="https://ddijj.github.io/ddijj.coom/ブログ公開ならGitHubPagesがおすすめ.html!" itemprop="url">
+    <span itemprop="title">2/10　GitHubで記事を公開する方法</span>
   </a>
   </li>
 </ul>
@@ -32,6 +32,31 @@ DDIJJ.com
 にアクセスして下さい</p>
 <p><img src="https://ddijj.github.io/ddijj.coom/git1.png" alt="解説" /></p>
 <p>こんな画面が出ると思うので</p>
+使いたい名前,メールアドレス,使いたいパスワード,をそれぞれ入力してください<p>
+その後いくつか質問されるのでそれに回答して下さい</p>
+そしたら右上のマークからYour repositoriesというところを選んで<p>
+<p><img src="https://ddijj.github.io/ddijj.coom/解説2.png" alt="解説" /></p>
+このような画面になったら</p>
+newと言う所を押して<p>
+<p><img src="https://ddijj.github.io/ddijj.coom/解説3.png" alt="解説" /></p>
+名前を入力して</p>
+Create repositoryと言うところを選んで<p>
+<p><img src="https://ddijj.github.io/ddijj.coom/解説4.PNG" alt="解説" /></p>
+この画像の様にチェックを入れて</p>
+一番下の緑のボタンを押して作成しましょう<p>
+<p><img src="https://ddijj.github.io/ddijj.coom/解説5.PNG" alt="解説" /></p>
+そうしたらCreate new file を押して</p>
+<p><img src="https://ddijj.github.io/ddijj.coom/解説6.PNG" alt="解説" /></p>
+なんでもいいのでHTMLを書いて<p>
+上の入力欄にindex.html と入力して</p>
+下の緑ボタンを押して<p>
+<p><img src="https://ddijj.github.io/ddijj.coom/解説5.PNG" alt="解説" /></p>
+Branch: masterを押して</p>
+gh Pagesと入力してください<p>
+そのあとhttps://(ユーザー名).github.io/(ページ名)/と入力すれば...</p>
+<p><img src="https://ddijj.github.io/ddijj.coom/7解説.PNG" alt="解説" /></p>
+こんな感じで表示されます<p>
+  本日も見ていただきありがとうございました
 </p>
 <style>
 h1 {
