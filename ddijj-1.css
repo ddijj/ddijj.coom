@@ -1,11 +1,13 @@
 <@charset "UTF-8";>
-h1 {
-  position: relative;
-  padding: 0.3em 0.5em;
-  background: -webkit-linear-gradient(to top, rgb(137, 184, 255), #c5ceff);
-  background: linear-gradient(to top, rgb(137, 184, 255), #c5ceff);
-  color: #495193;
-}
+h1
+{
+  h1 {
+    position: relative;
+    padding: 0.3em 0.5em;
+    background: -webkit-linear-gradient(to top, rgb(137, 184, 255), #c5ceff);
+    background: linear-gradient(to top, rgb(137, 184, 255), #c5ceff);
+    color: #495193;
+  }
 h2
 {
   padding: 0.5em;
