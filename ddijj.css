@@ -98,7 +98,7 @@ blockquote cite {
   .left{
     display: inline-block;
     float: left;
-    width: 78%
+    width: %
   }
 .up{
   display: block;
@@ -114,6 +114,4 @@ a {
 a:hover {
   text-decoration: underline;
 }
-.h21{
-  border-bottom: solid 3px black;
-}
+
