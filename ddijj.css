@@ -105,7 +105,7 @@ blockquote cite {
   display: block;
   width: 100%
 }
-h2 {
+h2.rest {
   border-bottom: solid 3px black;
 }
 a {
